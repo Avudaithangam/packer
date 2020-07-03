@@ -7,9 +7,9 @@
   "builders": [{
     "type": "azure-arm",
 
-    "resource_group_name": "{{user `resource_group`}}",
-    "storage_account": "{{user `storage_account`}}",
-    "subscription_id": "{{user `subscription_id`}}",
+    "resource_group_name": "devopsdemo",
+    "storage_account": "thangamdevopsstorage",
+    "subscription_id": "22b61291-240d-4558-aeee-f486b076c403",
 
     "capture_container_name": "images",
     "capture_name_prefix": "packer",
