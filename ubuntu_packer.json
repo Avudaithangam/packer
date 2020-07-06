@@ -7,9 +7,9 @@
   "builders": [{
     "type": "azure-arm",
 
-    "client_id": "76ec9798-7727-4683-a7a9-fb5729ad6796",
-    "client_secret": "-jTE~2YCv-Ruh2Z~FCEBL1ey.E7ejT46T9",
-    "subscription_id": "22b61291-240d-4558-aeee-f486b076c403",
+    "client_id": "",
+    "client_secret": "",
+    "subscription_id": "",
 
     "os_type": "Linux",
     "image_publisher": "Canonical",
